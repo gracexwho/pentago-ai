@@ -1,2 +1,2 @@
 # pentago-ai
-Alpha-beta minimax search algorithm for Pentago board game
+Simple alpha-beta minimax search algorithm for the Pentago board game.
